@@ -1,4 +1,4 @@
-# mycar
+# UchiRu
 
 ## Project setup
 ```
