@@ -34,7 +34,7 @@
 <script>
   const enabledKey = '20px solid black';
   const disabledKey = '20px solid gray';
-  let top = window.innerHeight / 2;
+  let top = window.innerHeight / 2 - 70;
   let left = window.innerWidth / 2 - 200;
   export default {
     name: 'Pacman',
@@ -96,7 +96,6 @@
   }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
     .pacman {
         width: 0;
