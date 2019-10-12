@@ -1,4 +1,4 @@
-# UchiRu
+# UchiRu Pacman Moving
 
 ## Project setup
 ```
